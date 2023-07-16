@@ -1,0 +1,195 @@
+@ A. Phishing@ B. Social engineering@ C. Spear phishing@ D. Trojan horse^
+@ A. Worm@ B. Logic bomb@ C. Trojan horse@ D. Rootkit
+@ A. Cross-site scripting@ B. Cross-site request forgery@ C. SQL injection@ D. ARP poisoning
+@ A. IV attack@ B. Jamming@ C. WPS attack@ D. Botnet
+@ A. Encrypted web traffic@ B. Input validation@ C. A firewall@ D. An IDS
+@ A. Session hijacking@ B. Clickjacking@ C. Rogue access point@ D. Bluejacking
+@ A. SQL injection@ B. Clickjacking@ C. Cross-site scripting@ D. Bluejacking
+@ A. Use of a salt@ B. Use of a pepper@ C. Use of a purpose-built password hashing algorithm@ D. Encrypting password plain text using symmetric encryption
+@ A. SPIM@ B. SMSPAM@ C. IMSPAM@ D. TwoFaceTiming
+@ A. A data breach@ B. A denial-of-service condition@ C. Permissions creep@ D. Privilege escalation
+@ A. It is a result of social engineering.@ B. The machines all have backdoors.@ C. The machines are bots.@ D. The machines are infected with crypto-viruses.
+@ A. Predictive analysis@ B. OSINT@ C. Indicators of compromise@ D. Threat maps
+@ A. Reviewing reports@ B. Packet capture@ C. Sentiment analysis@ D. Log collection and analysis
+@ A. Sentiment analysis@ B. Log aggregation@ C. Security monitoring@ D. User behavior analysis
+@ A. Log aggregation and log collectors@ B. Packet capture and log aggregation@ C. Security monitoring and log collectors@ D. Sentiment analysis and user behavior analysis
+@ A. Blue team@ B. White team@ C. Purple team@ D. Red team
+@ A. Require authentication.@ B. Install and configure a firewall.@ C. Filter by IP address.@ D. Install and use an IPS.
+@ A. Bluesnarfing@ B. Buffer overflow@ C. Bluejacking@ D. Cross-site scripting
+@ A. Scarcity@ B. Intimidation@ C. Authority@ D. Consensus
+@ A. Vulnerability scan@ B. Penetration test@ C. Security audit@ D. Security test
+@ A. Use of multifactor authentication@ B. User awareness training@ C. Use of complex usernames@ D. Limiting or preventing use of third-party web scripts and plugins
+@ A. Spoof a legitimate IP address.@ B. Conduct a denial-of-service attack against the NAC system.@ C. Use MAC cloning to clone a legitimate MAC address.@ D. None of the above
+@ A. Typo squatting@ B. SQL injection@ C. Cross-site scripting@ D. Cross-site request forgery
+@ A. DNS hijacking@ B. An on-path attack@ C. Domain hijacking@ D. A zero-day attack
+@ A. Hacktivist@ B. Amateur@ C. Insider@ D. Script kiddie
+@ A. It is sent only to specific targeted individuals.@ B. It is intended to acquire credentials or other data.@ C. It is sent via SMS.@ D. It includes malware in the message.
+@ A. Zombienet@ B. Botnet@ C. Nullnet@ D. Attacknet
+@ A. Supply chain security issues@ B. Lack of vendor support@ C. Outsourced code development issues@ D. System integration problems
+@ A. Active reconnaissance@ B. Passive reconnaissance@ C. Initial exploitation@ D. Pivot
+@ A. Removing all SQL code from submitted HTTP queries@ B. Blocking hostnames like 127.0.01 and localhost@ C. Blocking sensitive URLs like /admin@ D. Applying whitelist-based input filters
+@ A. DNS poisoning@ B. ARP poisoning@ C. XSS poisoning@ D. CSRF poisoning
+@ A. A known environment test@ B. External test@ C. An unknown environment test@ D. Threat test
+@ A. Internal attack@ B. Known environment testing@ C. Unknown environment testing@ D. A pivot
+@ A. Shimming@ B. Trojan horse@ C. Backdoor@ D. Refactoring
+@ A. Threat and vulnerability management@ B. Security incident response@ C. Automated malware analysis@ D. Security operations automation
+@ A. An nslookup@ B. A tcpdump@ C. A domain reputation lookup@ D. A SMTP whois
+@ A. SYN flood@ B. DDoS@ C. Botnet@ D. Backdoor
+@ A. WPA2 is not secure enough to prevent this.@ B. Open hotspots do not assert their identity in a secure way.@ C. Open hotspots can be accessed by any user.@ D. 802.11ac is insecure and traffic can be redirected.
+@ A. Logic bomb@ B. Trojan horse@ C. Rootkit@ D. Macro virus
+@ A. Spear phishing@ B. Targeted phishing@ C. Phishing@ D. Whaling
+@ A. State actors@ B. Script kiddies@ C. Hacktivists@ D. Criminal syndicates
+@ A. Rainbow table@ B. Backdoor@ C. Social engineering@ D. Dictionary attack
+@ A. Improper data storage@ B. Lack of patches or updates@ C. Lack of available documentation@ D. System integration and configuration issues
+@ A. Bluejacking@ B. Bluesnarfing@ C. Evil twin@ D. Rogue access point
+@ A. A plain-text password attack@ B. A pass-the-hash attack@ C. A SQL injection attack@ D. A cross-site scripting attack
+@ A. Dumpster diving@ B. Trash diving@ C. Social engineering@ D. Trash engineering
+@ A. RAT@ B. Worm@ C. Logic bomb@ D. Rootkit
+@ A. The computer has a RAT.@ B. The computer has a zero-day exploit.@ C. The computer has a worm.@ D. The computer has a rootkit.
+@ A. Data capture@ B. Spoofing@ C. Denial-of-service@ D. Birthday attacks
+@ A. Evil twin@ B. Rogue WAP@ C. IV attack@ D. WPS attack
+@ A. Financial@ B. Reputation@ C. Availability loss@ D. Data loss
+@ A. Cross-site scripting@ B. Cross-site request forgery@ C. Bluejacking@ D. Evil twin
+@ A. It promotes information sharing between agencies or organizations.@ B. It combines security technologies to create new, more powerful tools.@ C. It generates power for the local community in a secure way.@ D. It separates information by classification ratings to avoid accidental distribution.
+@ A. A threat intelligence feed@ B. A vulnerability feed@ C. A critical infrastructure listing feed@ D. A critical virtualization exploits feed
+@ A. A social engineering attack@ B. A cryptographic attack@ C. A network denial-of-service attack@ D. A TCP/IP protocol attack
+@ A. Problem with users’ Wi-Fi configuration@ B. Disassociation attack@ C. Session hijacking@ D. Backdoor attack
+@ A. Dictionary@ B. Rainbow table@ C. Brute force@ D. Session hijacking
+@ A. Disassociation attack@ B. Downgrade attack@ C. Session hijacking@ D. Brute force
+@ A. Rainbow table@ B. Brute force@ C. Session hijacking@ D. Collision attack
+@ A. DDoS@ B. Brute force@ C. APT@ D. Disassociation attack
+@ A. Passwords@ B. Email addresses@ C. Credit card numbers@ D. Personal information
+@ A. False positive@ B. False negative@ C. False trigger@ D. False flag
+@ A. A rootkit@ B. A keylogger@ C. A worm@ D. None of the above
+@ A. Privilege escalation@ B. Session hijacking@ C. Root grabbing@ D. Climbing
+@ A. Etherspam@ B. MAC flooding@ C. Hardware spoofing@ D. MAC hashing
+@ A. Trojan@ B. PUP@ C. RAT@ D. Ransomware
+@ A. Buffer overflow@ B. Logic bomb@ C. Race conditions@ D. Improper error handling
+@ A. Rootkit@ B. Trojan horse@ C. Spyware@ D. Boot sector virus
+@ A. Weak encryption@ B. Unsecured administrative accounts@ C. Open ports and services@ D. Unsecure protocols
+@ A. Lateral movement@ B. Privilege escalation@ C. Privilege retention@ D. Vertical movement
+@ A. A false positive@ B. An automatic update failure@ C. A false negative@ D. An Apache version mismatch
+@ A. XSS@ B. CSRF@ C. Buffer overflow@ D. Logic bomb
+@ A. Scarcity@ B. Familiarity@ C. Consensus@ D. Trust
+@ A. Boot sector virus@ B. Logic bomb@ C. Buffer overflow@ D. Sparse infector virus
+@ A. Pretexting@ B. Elicitation@ C. Impersonation@ D. Intimidation
+@ A. File transfer protocols@ B. Unsecure protocols@ C. Core protocols@ D. Open ports
+@ A. OSINT and active scans@ B. War driving and war flying@ C. Social engineering and active scans@ D. OSINT and war driving
+@ A. A macro virus@ B. A boot sector virus@ C. A Trojan horse@ D. A RAT
+@ A. A known environment test@ B. A gray-box test@ C. A credentialed scan@ D. An intrusive scan
+@ A. Perl, vulnerability scanning@ B. Python, port scanning@ C. Bash, vulnerability scanning@ D. PowerShell, port scanning
+@ A. Phishing@ B. Adware@ C. Botnet@ D. Trojan
+@ A. Zero-day@ B. Insider threat@ C. Misconfiguration@ D. Weak encryption
+@ A. Impersonation@ B. A social media influence campaign@ C. Asymmetric warfare@ D. A watering hole attack
+@ A. Improperly configured accounts@ B. Untrained users@ C. Using default settings@ D. Failure to patch systems
+@ A. Logic bomb@ B. Session hijacking@ C. Buffer overflow@ D. DLL injection
+@ A. Hacktivists@ B. State actors@ C. Script kiddies@ D. Insider threats
+@ A. An intrusive scan is a penetration test.@ B. A nonintrusive scan is just a document check.@ C. An intrusive scan could potentially disrupt operations.@ D. A nonintrusive scan won’t find most vulnerabilities.
+@ A. Logic bomb@ B. Trojan horse@ C. Backdoor@ D. Rootkit
+@ A. A script@ B. A nation-state@ C. Organized crime@ D. Hacktivists
+@ A. Modifying the hosts file on a PC or exploiting a DNS vulnerability on a trusted@ DNS server@ B. Phishing many users and harvesting email addresses from them@ C. Phishing many users and harvesting many passwords from them@ D. Spoofing DNS server IP addresses or modifying the hosts file on a PC
+@ A. Brute forcing@ B. Password spraying@ C. Limited login attacks@ D. Account spinning
+@ A. Long-term access to the target@ B. Sophisticated attacks@ C. The attack comes from a foreign IP address.@ D. The attack is sustained over time.
+@ A. Cross-site scripting@ B. Privilege escalation@ C. A SQL injection@ D. A race condition
+@ A. Evil twin@ B. IP spoofing@ C. Trojan horse@ D. Privilege escalation
+@ A. A vulnerability that the vendor is not yet aware of@ B. A vulnerability that has not yet been breached@ C. A vulnerability that can be quickly exploited (i.e., in zero days)@ D. A vulnerability that will give the attacker brief access (i.e., zero days)
+@ A. Pretexting@ B. Phishing@ C. SQL injection@ D. Prepending
+@ A. Ensure developers are trained on secure coding techniques.@ B. Set defined acceptance criteria for code security.@ C. Test code using automated and manual security testing systems.@ D. Audit all underlying libraries used in the code.
+@ A. A backdoor@ B. An APT@ C. DNS poisoning@ D. A Trojan horse
+@ A. A CAT@ B. A worm@ C. A PUP@ D. A Trojan
+@ A. Backdoor@ B. Trojan horse@ C. RAT@ D. Polymorphic virus
+@ A. RAT@ B. Backdoor@ C. Trojan horse@ D. Macro virus
+@ A. A brute-force attack@ B. A skimming attack@ C. A rainbow table attack@ D. A birthday attack
+@ A. XSS@ B. XSRF@ C. Buffer overflow@ D. RAT
+@ A. DoS@ B. Backdoor@ C. SQL injection@ D. Buffer overflow
+@ A. A network DDoS@ B. An operational technology DDoS@ C. A GDoS@ D. An application DDoS
+@ A. A red team@ B. A blue team@ C. A white team@ D. A purple team
+@ A. Mike’s machine has a rootkit.@ B. Mike’s machine has ransomware.@ C. Mike’s machine has a logic bomb.@ D. Mike’s machine has been the target of whaling.
+@ A. Memory leak@ B. Buffer overflow@ C. Integer overflow@ D. Time of check/time of use
+@ A. Tailgating@ B. Eavesdropping@ C. IP spoofing@ D. Race conditions
+@ A. Reviewing full-disk images of infected machines@ B. Turning on PowerShell logging@ C. Disabling the administrative user account@ D. Analyzing Windows crash dump files
+@ A. Phishing@ B. Tailgating@ C. Spoofing the smartcard@ D. RFID spoofing
+@ A. A vulnerability feed@ B. A threat feed@ C. A hunting feed@ D. A rule feed
+@ A. A Trojan horse download@ B. A malicious USB cable or drive@ C. A worm@ D. None of the above
+@ A. Hash spoofing@ B. Evil twin@ C. Shimming@ D. Pass the hash
+@ A. Urgency and intimidation@ B. Urgency and authority@ C. Authority and trust@ D. Intimidation and authority
+@ A. Unsupported operating systems@ B. Improper or weak patch management for the operating systems@ C. Improper or weak patch management for the firmware of the systems@ D. Use of unsecure protocols
+@ A. ARP poisoning@ B. DNS poisoning@ C. On-path attack@ D. Backdoor
+@ A. Known environment@ B. Full disclosure@ C. Unknown environment@ D. Red team
+@ A. Illegal copying of software@ B. Gathering information from discarded manuals and printouts@ C. Using people skills to obtain proprietary information@ D. Phishing emails@ A. ARP poisoning@ B. Phishing@ C. Shoulder surfing@ D. Smurf attack
+@ A. Receiving money or acquiring credentials@ B. Acquiring credentials or delivering a rootkit@ C. Receiving money or stealing cryptocurrency@ D. Acquiring credentials or delivering ransomware
+@ A. Security audit@ B. Vulnerability scanning@ C. A known environment test@ D. An unknown environment test
+@ A. Partially known environment@ B. Known environment@ C. Unknown environment@ D. Masked
+@ A. Denial-of-service@ B. Replay@ C. Eavesdropping@ D. On-path
+@ A. Man in the browser@ B. On-path attack@ C. Buffer overflow@ D. Session hijacking
+@ A. SQL injection@ B. URL redirection@ C. DNS poisoning@ D. LDAP injection
+@ A. Memory overflow@ B. Buffer overflow@ C. Variable overflow@ D. Integer overflow
+@ A. SQL injection@ B. Cross-site request forgery@ C. LDAP injection@ D. Cross-site scripting
+@ A. Python, adds an authorized SSH key@ B. Bash, connects to another system using an SSH key@ C. Python, connects to another system using an SSH key@ D. Bash, adds an authorized SSH key
+@ A. Trojan horse@ B. Logic bomb@ C. Multipartite virus@ D. Rootkit
+@ A. They can expose sensitive data.@ B. They can allow attackers to inject code via the leak.@ C. They can cause crashes@ D. None of the above
+@ A. An alternate service port for web traffic@ B. Botnet command and control via IRC@ C. Downloads via a peer-to-peer network@ D. Remote access Trojans
+@ A. Firmware patch management@ B. Default configuration issues@ C. An unsecured administrative account@ D. Weak encryption settings
+@ A. System authentication@ B. Access badges@ C. Web application access@ D. VPN logins
+@ A. Bluejacking@ B. Smishing@ C. Phonejacking@ D. Text whaling
+@ A. Spear phishing@ B. Vishing@ C. War dialing@ D. Robocalling
+@ A. Worm@ B. Virus@ C. Logic bomb@ D. Trojan horse
+@ A. Phishing@ B. Dumpster diving@ C. Shoulder surfing@ D. On-path attack
+@ A. Removing all executables and scripts from the compromised system@ B. Restoring all rootkits to their original settings on the system@ C. Returning all system settings and application configurations to their original configurations@ D. Removing any user accounts created during the penetration test
+@ A. Rainbow table@ B. Birthday attack@ C. Dictionary attack@ D. Spoofing
+@ A. A replay attack@ B. A race condition@ C. A skimmer@ D. A card cloner
+@ A. Active will be done manually, passive with tools.@ B. Active is done with black-box tests and passive with white-box tests.@ C. Active is usually done by attackers and passive by testers.@ D. Active will actually connect to the network and could be detected; passive won’t.
+@ A. A rootkit@ B. A RAT@ C. A worm@ D. A PUP
+@ A. OPSEC@ B. OSINT@ C. IntCon@ D. STIX
+@ A. A watercooler attack@ B. A phishing net attack@ C. A watering hole attack@ D. A phish pond attack
+@ A. Secure configuration of LDAP@ B. User input validation@ C. LDAP query parameterization@ D. Output filtering rules
+@ A. Through the looking glass@ B. The dark web@ C. The underweb@ D. Onion-space
+@ A. Certificate expiration tracking@ B. Displaying the full real URL@ C. Disabling cookies@ D. Enabling JavaScript
+@ A. Your ability to remediate it yourself@ B. The severity of the vulnerability@ C. The time required to remediate@ D. Your responsibility for compromised data
+@ A. An unpatched device@ B. An out of support device@ C. An unsecured administrator account@ D. An unsecured user account
+@ A. A red team@ B. A blue team@ C. A white team@ D. A purple team
+@ A. A directory traversal attacks@ B. A web application buffer overflow@ C. A directory recursion attack@ D. A slashdot attack
+@ A. SOAR integrates with a wider range of applications.@ B. SIEM includes threat and vulnerability management tools.@ C. SOAR includes security operations automation.@ D. SIEM includes security operations automation.
+@ A. Known environment test@ B. External test@ C. Unknown environment test@ D. Threat test
+@ A. The Windows registry and the Linux /etc/passwd file@ B. The Windows SAM and the Linux /etc/passwd file@ C. The Windows SAM and the Linux /etc/shadow file@ D. The Windows registry and the Linux /etc/shadow file
+@ A. A brute-force attack@ B. A Trojan attack@ C. An on-path attack@ D. A downgrade attack
+@ A. Critical infrastructure attacks@ B. Metalwork and casting attacks@ C. Supply chain attacks@ D. Software source code attacks
+@ A. A pie chart@ B. A threat map@ C. A dark web tracker@ D. An OSINT repository
+@ A. Bluejacking@ B. Bluesnarfing@ C. Evil twin@ D. RAT
+@ A. The black-box outline@ B. The rules of engagement@ C. The white-box outline@ D. The close-out report
+@ A. It checks the time every hour.@ B. It pulls data from example.com every minute.@ C. It sets up a reverse shell.@ D. None of the above
+@ A. Intimidation@ B. Scarcity@ C. Urgency@ D. Trust
+@ A. Proprietary threat intelligence@ B. OSINT@ C. ELINT@ D. Corporate threat intelligence
+@ A. Intelligence fusion@ B. Maneuver@ C. Threat feed analysis@ D. Bulletin analysis
+@ A. Nation-states@ B. Script kiddies@ C. Hacktivists@ D. Organized crime
+@ A. A DDoS@ B. A resource exhaustion attack@ C. An application exploit@ D. A vulnerability exploit
+@ A. Pretexting@ B. A watering hole attack@ C. Prepending@ D. Shoulder surfing
+@ A. Droning@ B. Air Snarfing@ C. War flying@ D. Aerial snooping
+@ A. Disconnect it from the network.@ B. Place the device behind a dedicated firewall and restrict inbound and outbound traffic.@ C. Rely on the outdated OS to confuse attackers.@ D. Move the device to a protected VLAN.
+@ A. IRTs@ B. ISACs@ C. Feedburners@ D. Vertical threat feeds
+@ A. Low ports should not be open to the Internet.@ B. Telnet is an insecure protocol.@ C. SSH is an insecure protocol.@ D. Ports 1-1024 are well-known ports and must be firewalled.
+@ A. A Trojan attack@ B. A privilege escalation attack@ C. A denial-of-service attack@ D. A swapfile attack
+@ A. Internal/external@ B. Resources or funding level@ C. Years of experience@ D. Intent/motivation
+@ A. Ensuring the source data is secure and of sufficient quality@ B. Requiring a third-party review of all proprietary algorithms@ C. Requiring change control and documentation for all changes to the algorithms@ D. Ensuring a secure environment for all development, data acquisition, and storage
+@ A. Performing oversight and judging of the exercise@ B. Providing full details of the environment to the participants@ C. Providing partial details of the environment to the participants@ D. Providing defense against the attackers in the exercise
+@ A. A ransom@ B. A payday@ C. A bug bounty@ D. A zero-day disclosure
+@ A. Open or weak permissions@ B. Improper file handling@ C. A privilege escalation attack@ D. None of the above
+@ A. Mapping@ B. Footprinting@ C. Fingerprinting@ D. Aggregation
+@ A. Wi-driving@ B. Traffic testing@ C. War driving@ D. CARINT
+@ A. A SCADA overflow@ B. An operational technology (OT) DDoS@ C. A network DDoS@ D. An application DDoS
+@ A. A silent patch@ B. A missing vulnerability update@ C. A false negative@ D. A false positive
+@ A. Refactoring@ B. Cloning@ C. Manual source code editing@ D. Changing programming languages
+@ A. Social warfare@ B. Hybrid warfare@ C. Social influence@ D. Cybersocial influence campaigns
+@ A. A phishing attempt@ B. Identity fraud@ C. A hoax@ D. An invoice scam
+@ A. A cross-site scripting attack@ B. Server-side request forgery@ C. Client-side request forgery@ D. SQL injection
+@ A. Incident response@ B. Threat hunting@ C. Penetration testing@ D. Vulnerability scanning
+@ A. They are encrypted in memory.@ B. They are hashed in memory.@ C. They are often in plain text.@ D. They are often de-hashed for use.
+@ A. HTML and HTTPS@ B. SFTP and XML@ C. STIX and TRIX@ D. STIX and TAXII
+@ A. Exploitation@ B. Establishing persistence@ C. Reconnaissance@ D. Lateral movement
+@ A. Impersonation@ B. Whaling@ C. A watering hole attack@ D. Prepending
+@ A. Lack of vendor support@ B. Lack of warranty coverage@ C. Inability to validate the source of the devices@ D. All of the above
+@ A. Syslog@ B. Web server logs@ C. Authentication logs@ D. Event logs
+@ A. Nothing; cloud services do not provide security tools.@ B. Call the cloud service provider to have them stop the DoS attack.@ C. Review the cloud service provider’s security tools and enable logging and anti-DoS@ tools if they exist.@ D. Call the cloud service provider’s Internet service provider (ISP) and ask them to enable@ DoS prevention.
+@ A. Syslog@ B. Apache logs@ C. The cloud service’s web logs@ D. None of the above
+@ A. A firewall@ B. An IPS@ C. A vulnerability scanner@ D. Antimalware software
+@ A. Inserting security requirements into contracts@   B. Auditing configurations@   C. Coordinating with the vendor for security reviews during and after installation@   D. Req

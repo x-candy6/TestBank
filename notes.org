@@ -1,0 +1,45 @@
+So the sec-trainer site will have the following:
+
+Upon authentication, user will land at the sec-trainer homepage
+The homepage has the following:
+- A link to Create a New Test
+- A link to Statistics
+- A link to Past Tests
+- A link to unfinished tests
+- A pie chart with data from statistics
+
+* Create Test
+This page will have options to create a new test and then redirect the 
+user to the test
+It will have options such as:
+Test Name 
+Test Type: A clean test? A test based on questions with poor performance? good performance?
+Number of Questions:
+- Ratio: a %d:%d:%d:%d:%d formatted variable that represents the ratio of questions to be given
+- Manual: List the number of questions from each section
+Enable Timer: Boolean, if true, fill out AmountTime
+AmountTime: defaults to 90min
+IsFinished: Hidden Variable to indicate if the test is completed.
+Score: a ratio of correct/total
+Pass: Boolean
+QuestionList: List of QuestionIDs that corresponds to the ratio
+AnswerList: List of User Defined Answers, defaults to NONE
+WrongAnswers: List of Wrong User Answers
+CorrectAnswers: List of Correct User Answers
+MarkedQuestions: List of QuestionIDs, user checkmarks a box to mark it for later review
+
+* Statistics
+Shows the ratio of Chapters and their relative performance
+Shows a list of Tests with a True value for IsFinished
+Each element in the the Test List links to a results page
+
+* Results
+A list of Question #'s that follows focus, highlighted based on correct/wrong
+Shows a list of questions with expandable bars.
+Correct Answers are non-expanded
+Wrong Answers are expanded
+When expanded, it will display all columns from the Question table
+
+* Unfinished Tests
+A list of Tests that have a false IsFinished variable.
+Each element will have the option to Continue or Delete
